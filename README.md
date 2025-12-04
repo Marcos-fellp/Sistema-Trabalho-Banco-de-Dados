@@ -7,16 +7,29 @@ Aplicação web em PHP integrada ao MySQL, com autenticação via sessões, CRUD
 O projeto está organizado nos seguintes arquivos PHP e SQL:
 
 ├── cadastrao_aluno.php
+
 ├── cadastro.php
+
 ├── conexao.php
+
 ├── dados.sql
+
 ├── editar_aluno.php
+
 ├── excluir_aluno.php
+
 ├── form.php
+
 ├── index.php
+
 ├── listar_alunos.php
+
 ├── login.php
+
 ├── logout.php
+
 ├── navbar.php 
+
 ├── painel.php
+
 └── verifica_login.php 
