@@ -51,6 +51,6 @@ O projeto está organizado nos seguintes arquivos PHP e SQL:
 
 ✏️ Editar dados de alunos existentes
 
-✔️ Fazer Logout da sessão
+⬅️ Fazer Logout da sessão
 
-Cadastrar novos alunos
+✅ Cadastrar novos alunos
