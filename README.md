@@ -39,6 +39,7 @@ O projeto está organizado nos seguintes arquivos PHP e SQL:
 └── verifica_login.php
 
 🚀 Funcionalidades
+
 ✅ Cadastrar novos usuários
 
 ✅ Fazer Login de usuários
