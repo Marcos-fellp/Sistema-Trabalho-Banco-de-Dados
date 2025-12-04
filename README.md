@@ -3,42 +3,42 @@ Aplicação web em PHP integrada ao MySQL, com autenticação via sessões, CRUD
 
 
 
-📂 Estrutura do Projeto
+### 📂 Estrutura do Projeto
 O projeto está organizado nos seguintes arquivos PHP e SQL:
 
-├── cadastrao_aluno.php
+- ├── cadastrao_aluno.php
 
-├── cadastro.php
+- ├── cadastro.php
 
-├── conexao.php
+- ├── conexao.php
 
-├── dados.sql
+- ├── dados.sql
 
-├── editar_aluno.php
+- ├── editar_aluno.php
 
-├── excluir_aluno.php
+- ├── excluir_aluno.php
 
-├── form.php
+- ├── form.php
 
-├── index.php
+- ├── index.php
 
-├── listar_alunos.php
+- ├── listar_alunos.php
 
-├── login.php
+- ├── login.php
 
-├── logout.php
+- ├── logout.php
 
-├── navbar.php 
+- ├── navbar.php 
 
-├── painel.php
+- ├── painel.php
 
-└── verifica_login.php 
+- └── verifica_login.php 
 
-└── telacadastro.php
+- └── telacadastro.php
 
-└── verifica_login.php
+- └── verifica_login.php
 
-🚀 Funcionalidades
+### 🚀 Funcionalidades
 
 ✅ Cadastrar novos usuários
 
@@ -62,7 +62,7 @@ O projeto está organizado nos seguintes arquivos PHP e SQL:
 
 ✅ Atualização dos dados de um aluno específico no banco de dados.
 
-🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 PHP: Lógica de backend, manipulação de dados, autenticação e controle de sessão.
 
@@ -86,7 +86,9 @@ Crie um banco de dados chamado "login".
 
 Selecione o banco criado e vá até a aba SQL.
 
+'
 Cole o seguinte código para criar a tabela:
+```
 CREATE TABLE `dados` (
   `id_aluno` int(11) NOT NULL,
   `aluno_name` varchar(100) NOT NULL,
@@ -100,10 +102,13 @@ CREATE TABLE `dados` (
   `curso` varchar(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+ 
 ALTER TABLE `dados`
   ADD PRIMARY KEY (`id_aluno`);
 
 ALTER TABLE `dados`
   MODIFY `id_aluno` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 );
+```
+
 Execute o comando e verifique se a tabela foi criada corretamente.
