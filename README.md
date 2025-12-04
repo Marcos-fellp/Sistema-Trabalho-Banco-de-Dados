@@ -55,3 +55,9 @@ O projeto está organizado nos seguintes arquivos PHP e SQL:
 ⬅️ Fazer Logout da sessão
 
 ✅ Cadastrar novos alunos
+
+✅ Dashboard que exibe estatísticas e gráficos de resumo sobre os alunos cadastrados;
+
+✅ Interface para um novo usuário se registrar no sistema;
+
+✅ Atualização dos dados de um aluno específico no banco de dados.
