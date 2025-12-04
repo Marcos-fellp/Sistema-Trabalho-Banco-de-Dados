@@ -33,3 +33,7 @@ O projeto está organizado nos seguintes arquivos PHP e SQL:
 ├── painel.php
 
 └── verifica_login.php 
+
+└── telacadastro.php
+
+└── verifica_login.php
