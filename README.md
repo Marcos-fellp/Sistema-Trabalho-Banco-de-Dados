@@ -37,3 +37,20 @@ O projeto está organizado nos seguintes arquivos PHP e SQL:
 └── telacadastro.php
 
 └── verifica_login.php
+
+🚀 Funcionalidades
+✅ Cadastrar novos usuários
+
+✅ Fazer Login de usuários
+
+🗑️ Remover alunos
+
+📋 Listar todos os alunos em uma tabela
+
+🔐 Proteger Painel
+
+✏️ Editar dados de alunos existentes
+
+✔️ Fazer Logout da sessão
+
+Cadastrar novos alunos
