@@ -61,3 +61,17 @@ O projeto está organizado nos seguintes arquivos PHP e SQL:
 ✅ Interface para um novo usuário se registrar no sistema;
 
 ✅ Atualização dos dados de um aluno específico no banco de dados.
+
+🛠️ Tecnologias Utilizadas
+
+PHP: Lógica de backend, manipulação de dados, autenticação e controle de sessão.
+
+MySQL: Armazenamento das informações de usuários (users) e alunos (dados).
+
+Bootstrap 5.x: Estilização, responsividade e componentes de interface.
+
+HTML: Estrutura das páginas web e formulários.
+
+MD5(): Utilizado para criptografar a senha do usuário no momento do cadastro.
+
+session_start(): Utilizado para iniciar e gerenciar sessões de usuário.
