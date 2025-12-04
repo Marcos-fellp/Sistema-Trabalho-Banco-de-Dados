@@ -75,3 +75,35 @@ HTML: Estrutura das páginas web e formulários.
 MD5(): Utilizado para criptografar a senha do usuário no momento do cadastro.
 
 session_start(): Utilizado para iniciar e gerenciar sessões de usuário.
+
+🗃️ Banco de Dados
+
+O banco de dados foi criado utilizando o phpMyAdmin, uma ferramenta web para administração do MySQL.
+Como criar o banco via phpMyAdmin
+Acesse o phpMyAdmin pelo navegador (geralmente em http://localhost/phpmyadmin).
+
+Crie um banco de dados chamado "login".
+
+Selecione o banco criado e vá até a aba SQL.
+
+Cole o seguinte código para criar a tabela:
+CREATE TABLE `dados` (
+  `id_aluno` int(11) NOT NULL,
+  `aluno_name` varchar(100) NOT NULL,
+  `data_nasc` date NOT NULL,
+  `rua` varchar(70) NOT NULL,
+  `numero` int(11) NOT NULL,
+  `bairro` varchar(70) NOT NULL,
+  `cep` int(8) NOT NULL,
+  `nome_responsavel` varchar(100) NOT NULL,
+  `tipo_responsavel` varchar(20) NOT NULL,
+  `curso` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+ALTER TABLE `dados`
+  ADD PRIMARY KEY (`id_aluno`);
+
+ALTER TABLE `dados`
+  MODIFY `id_aluno` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+);
+Execute o comando e verifique se a tabela foi criada corretamente.
