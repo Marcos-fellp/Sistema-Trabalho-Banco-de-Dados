@@ -112,6 +112,7 @@ ALTER TABLE `dados`
 ```
 
 Execute o comando e verifique se a tabela foi criada corretamente.
+
 📸 Imagens do projeto
 
 ![Página de Login](imagens/paglogin.png)
