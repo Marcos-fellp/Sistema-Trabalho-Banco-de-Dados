@@ -112,9 +112,18 @@ ALTER TABLE `dados`
 ```
 
 Execute o comando e verifique se a tabela foi criada corretamente.
-
 📸 Imagens do projeto
 
-![Página de Login](aulas_php_marcos-fellype/php_marcosfellype/imagens/paglogin.png)
+![Página de Login](imagens/paglogin.png)
+
+![Página de Cadastro](imagens/pagcada.png)
+
+![Dashboard](imagens/dashboard.png)
+
+![Cadastro do aluno](imagens/cadaaluno.png)
+
+![Tabela de alunos Cadastrados](imagens/tabaluno.png)
+
+![Edição de alunos](imagens/editaluno.png)
 
 
