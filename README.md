@@ -121,7 +121,7 @@ Execute o comando e verifique se a tabela foi criada corretamente.
 
 ![Dashboard](dashboard.png)
 
-![Cadastro do aluno](cadaaluno.png)
+![Cadastro do aluno](cadaluno.png)
 
 ![Tabela de alunos Cadastrados](tabaluno.png)
 
