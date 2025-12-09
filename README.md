@@ -115,16 +115,16 @@ Execute o comando e verifique se a tabela foi criada corretamente.
 
 📸 Imagens do projeto
 
-![Página de Login](imagens/paglogin.png)
+![Página de Login](paglogin.png)
 
-![Página de Cadastro](imagens/pagcada.png)
+![Página de Cadastro](pagcada.png)
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](dashboard.png)
 
-![Cadastro do aluno](imagens/cadaaluno.png)
+![Cadastro do aluno](cadaaluno.png)
 
-![Tabela de alunos Cadastrados](imagens/tabaluno.png)
+![Tabela de alunos Cadastrados](tabaluno.png)
 
-![Edição de alunos](imagens/editaluno.png)
+![Edição de alunos](editaluno.png)
 
 
