@@ -121,7 +121,7 @@ Execute o comando e verifique se a tabela foi criada corretamente.
 ### Página de Cadastro
 ![Página de Cadastro](pagcada.png)
 
-###Dashboard
+### Dashboard
 ![Dashboard](dashboard.png)
 
 ### Cadastro do aluno
